@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I learned to code without the internet**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsauceda&hide=stars)](https://github.com/victorsauceda/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/victorsauceda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/victorsauceda" height="30" width="40" /></a>
