@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I learned to code without the internet**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsauceda&hide=stars)](https://github.com/victorsauceda/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsauceda&hide=stars)](https://github.com/victorsauceda/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
