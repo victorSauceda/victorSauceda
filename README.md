@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Sauceda</h1>
+<h1 align="center">Welcome to my Github Profile I'm Victor Sauceda</h1>
 <h3 align="center">CEO and Founder of Victory Code. I started my career as a Software Engineer and like to write code that wins 🏆</h3>
 
 - 🔭 I’m currently working on [Clear My Record](https://www.clearmyrecord.org/)
